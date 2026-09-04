@@ -5,3 +5,19 @@ body {
 p {
    color:gold;
 }
+
+.test {
+    border: 1px solid #000;
+    width: 200px;
+    margin: 5px;
+}
+
+.test2 li {
+    background-color: blueviolet;
+    width: 200px;
+    margin: 5px;
+}
+
+#example {
+    background-color: hotpink;
+}
